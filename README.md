@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Bikzmal
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning C++, C#, Ruby
+I know Python and C#

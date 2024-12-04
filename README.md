@@ -1,11 +1,8 @@
-If programming languages were actual languages, I would be a polyglot. - Me
+Skills: Minecraft modding/plugins, OOP, wrote a compiler (once)
 
 
-Skills: Minecraft modding/plugins, OOP enjoyer, wrote a compiler (once)
+Langs: Python, Java, C++, C#, JS
 
-
-Langs: Python, Java, C++, Zig (on a good day), C#
-
-Learning: Rust
+Learning: Rust, Zig
 
 Want to learn: Everything
